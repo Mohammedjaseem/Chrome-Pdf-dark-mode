@@ -1,6 +1,6 @@
 # Chrome-Pdf-dark-mode-
 
-To make the PDF appear darker, kindly copy the code from "Paste this code in your Console.txt" and paste it into your console.
+To make the PDF appear darker, kindly copy the code and paste it into your console.
 
 
 
